@@ -20,7 +20,7 @@ Projeto criado como forma de avaliação no curso DevQuest. 👾
 
 ## Meu resultado 
 
-- [Meu resultado]()
+- [Meu resultado](https://wesley-emanoel.github.io/QUEST-HTML-CSS-AVANCADO/)
 
 ![Versão desktop](src/minha-resolucao/Captura%20de%20tela%20desktop.png)
 
