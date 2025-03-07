@@ -1,6 +1,9 @@
-html {
+body{
     background: hsl(257, 40%, 49%) url(../images/bg-desktop.svg)no-repeat;
     background-size: cover;
+    height: 100vh;
+    max-width: 1440px;
+    margin: auto;
 }
 
 /* HEADER */
@@ -46,6 +49,7 @@ html {
     width: 200px;
     height: 50px;
     border-radius: 50px;
+    font-family: "Open Sans", serif;
     text-align: center;
     align-content: center;
     background-color: #fff;
@@ -61,14 +65,14 @@ html {
 
 
 /* FOOTER */
-footer {
+footer ul {
     display: flex;
     justify-content: end;
     padding-right: 70px;
     padding-bottom: 10px;
 }
 
-footer a {
+footer ul a {
     display: flex;
     color: #fff;
     text-decoration: none;
